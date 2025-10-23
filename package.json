@@ -58,7 +58,7 @@
     "typescript": "^5.6.3",
     "vite": "^6.4.1"
   },
-  "homepage": "https://iguerchal.github.io/moodboard_studio",
+  "homepage": "https://iguerchal.github.io/MoodBoard_Studio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
